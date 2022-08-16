@@ -13,9 +13,9 @@ Welcome to my personal page! I am a Ph.D. candidate from Zhejiang University, Ch
 Any form of collaboration is welcomed. Drop me an email!
 
 **News**
-- [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) Incremental Object Detection was accepted to **CVPR 2022**.
+- [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) (for Incremental Object Detection) is accepted to **CVPR 2022**.
 - I am awarded AAAI-22 Scholarship.
-- [OCN](https://ojs.aaai.org/index.php/AAAI/article/view/20229) (for Human-Object Interaction Detection) was accepted to **AAAI 2022**.
+- [OCN](https://ojs.aaai.org/index.php/AAAI/article/view/20229) (for Human-Object Interaction Detection) is accepted to **AAAI 2022**.
 
 
 <!-- A data-driven personal website
