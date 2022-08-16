@@ -15,12 +15,12 @@ I am a Ph.D. candidate from Zhejiang University, China. I am fortunate to be sup
 Any form of collaboration is welcomed. Drop me an email!
 
 **News**
-- **[Mar. 2022]** [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) (for Incremental Object Detection) is accepted to **CVPR 2022**.
-- **[Feb. 2022]** I am awarded **AAAI-22 Scholarship**.
-- **[Dec. 2021]** [OCN](https://ojs.aaai.org/index.php/AAAI/article/view/20229) (for Human-Object Interaction Detection) is accepted to **AAAI 2022**.
-- **[Jul. 2021]** [Spatio-Temporal Dynamic Inference Network](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.html) (for Group Activity recognition) is accepted to **ICCV 2021**.
-- **[Mar. 2021]** I start my internship at **DAMO Academy**, Alibaba Group.
-- **[Dec. 2020]** [Learning Visual Context](https://ojs.aaai.org/index.php/AAAI/article/view/16437) (for Group Activity recognition) is accepted to **AAAI 2021**.
+- ***[Mar. 2022]*** [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) (for Incremental Object Detection) is accepted to **CVPR 2022**.
+- ***[Feb. 2022]*** I am awarded **AAAI-22 Scholarship**.
+- ***[Dec. 2021]*** [OCN](https://ojs.aaai.org/index.php/AAAI/article/view/20229) (for Human-Object Interaction Detection) is accepted to **AAAI 2022**.
+- ***[Jul. 2021]*** [Spatio-Temporal Dynamic Inference Network](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.html) (for Group Activity recognition) is accepted to **ICCV 2021**.
+- ***[Mar. 2021]*** I start my internship at **DAMO Academy**, Alibaba Group.
+- ***[Dec. 2020]*** [Learning Visual Context](https://ojs.aaai.org/index.php/AAAI/article/view/16437) (for Group Activity recognition) is accepted to **AAAI 2021**.
 
 
 <!-- A data-driven personal website
