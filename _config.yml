@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hangjie Yuan"
-  avatar           : "profile.png"
+  avatar           : "Avatar.jpg" # "profile.png"
   bio              : "A Ph.D. candidate from Zhejiang University."
   location         : "Hangzhou, China"
   employer         :
