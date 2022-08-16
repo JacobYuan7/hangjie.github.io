@@ -13,7 +13,12 @@ Welcome to my personal page! I am a Ph.D. candidate from Zhejiang University, Ch
 Any form of collaboration is welcomed. Drop me an email!
 
 **News**
-A data-driven personal website
+- [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) Incremental Object Detection was accepted to **CVPR 2022**.
+- I am awarded AAAI-22 Scholarship.
+- [OCN](https://ojs.aaai.org/index.php/AAAI/article/view/20229) (for Human-Object Interaction Detection) was accepted to **AAAI 2022**.
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -51,3 +56,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
