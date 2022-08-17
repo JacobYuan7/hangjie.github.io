@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hangjie Yuan"
   avatar           : "Avatar.jpg" # "profile.png"
-  bio              : "A Ph.D. candidate from Zhejiang University. \n A realistic idealist searching for the purpose of life."
+  bio              : "A Ph.D. candidate from Zhejiang University, but more precisely, a realistic idealist searching for the purpose of life."
   location         : "Hangzhou, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
