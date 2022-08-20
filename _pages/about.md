@@ -10,11 +10,11 @@ redirect_from:
 
 <!-- 加点表情包  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-:bowtie: Welcome to my personal page! 
+😃 Welcome to my personal page!
 
 I am a Ph.D. candidate from Zhejiang University, China. I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. Besides, I am fortunate to work closely with Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (DAMO Academy, Alibaba). My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos).
 
-Any form of collaboration is welcomed. Drop me an email :email:!
+Any form of collaboration is welcomed. Drop me an email 📧!
 
 **News**
 - [Mar. '22] - :page_with_curl: [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) (for Incremental Object Detection) is accepted to **CVPR 2022**.
