@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 加点表情包  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
+<!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
 😃 Welcome to my personal page!
 
