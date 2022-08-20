@@ -8,19 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page! 
+<!-- 加点表情包  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-I am a Ph.D. candidate from Zhejiang University, China. I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. Besides, I am fortunate to work closely with Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (DAMO Academy, Alibaba). My research interests include the intersection of Natural Language and Computer Vision, relation detection and group activity recognition (in videos).
+:bowtie: Welcome to my personal page! 
 
-Any form of collaboration is welcomed. Drop me an email!
+I am a Ph.D. candidate from Zhejiang University, China. I am fortunate to be supervised by Prof. [Dong Ni](https://person.zju.edu.cn/en/nidong), who is open-minded and wise. Besides, I am fortunate to work closely with Prof. [Samuel Albanie](https://samuelalbanie.com/) (University of Cambridge) and [Jianwen Jiang](https://scholar.google.com/citations?user=uDAkC1kAAAAJ&hl=zh-CN&oi=ao) (DAMO Academy, Alibaba). My research interests include the intersection of Natural Language and Computer Vision, Relation Detection and Group Activity Recognition (in videos).
+
+Any form of collaboration is welcomed. Drop me an email :email:!
 
 **News**
-- [Mar. '22] - [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) (for Incremental Object Detection) is accepted to **CVPR 2022**.
-- [Feb. '22] - I am awarded **AAAI-22 Scholarship**.
-- [Dec. '21] - [ Object-guided Cross-modal Calibration Network](https://ojs.aaai.org/index.php/AAAI/article/view/20229) (for Human-Object Interaction Detection) is accepted to **AAAI 2022**.
-- [Jul. '21] - [Spatio-Temporal Dynamic Inference Network](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.html) (for Group Activity recognition) is accepted to **ICCV 2021**.
-- [Mar. '21] - I start my internship at **DAMO Academy**, Alibaba Group.
-- [Dec. '20] - [Learning Visual Context](https://ojs.aaai.org/index.php/AAAI/article/view/16437) (for Group Activity recognition) is accepted to **AAAI 2021**.
+- [Mar. '22] - :page_with_curl: [Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.html) (for Incremental Object Detection) is accepted to **CVPR 2022**.
+- [Feb. '22] - :collision: I am awarded **AAAI-22 Scholarship**.
+- [Dec. '21] - :page_with_curl: [ Object-guided Cross-modal Calibration Network](https://ojs.aaai.org/index.php/AAAI/article/view/20229) (for Human-Object Interaction Detection) is accepted to **AAAI 2022**.
+- [Jul. '21] - :page_with_curl: [Spatio-Temporal Dynamic Inference Network](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_Spatio-Temporal_Dynamic_Inference_Network_for_Group_Activity_Recognition_ICCV_2021_paper.html) (for Group Activity recognition) is accepted to **ICCV 2021**.
+- [Mar. '21] - :construction_worker: I start my internship at **DAMO Academy**, Alibaba Group.
+- [Dec. '20] - :page_with_curl: [Learning Visual Context](https://ojs.aaai.org/index.php/AAAI/article/view/16437) (for Group Activity recognition) is accepted to **AAAI 2021**.
+
+
+**Academic Service**
+- Reviewing for CVPR.
 
 
 <!-- A data-driven personal website
