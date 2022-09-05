@@ -26,7 +26,7 @@ Any form of collaboration is welcomed. Drop me an email 📧!
 
 
 **Academic Service**
-- Reviewing for CVPR.
+- Reviewing for CVPR and AAAI.
 
 
 <!-- A data-driven personal website
